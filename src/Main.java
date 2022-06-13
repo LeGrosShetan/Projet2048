@@ -27,9 +27,5 @@ public class Main {
 
         vue.setVisible(true);
 
-
     }
-
-
-
 }
